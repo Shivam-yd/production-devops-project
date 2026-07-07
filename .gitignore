@@ -1,0 +1,14 @@
+*.log
+*.swp
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.backup
+*.bak
+node_modules/
+__pycache__/
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
